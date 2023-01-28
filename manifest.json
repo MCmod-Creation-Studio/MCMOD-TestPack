@@ -1,0 +1,89 @@
+{
+  "minecraft": {
+    "version": "1.18.2",
+    "modLoaders": [
+      {
+        "id": "forge-40.2.1",
+        "primary": true
+      }
+    ]
+  },
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "name": "MCMOD-TestPack-1.18.2-Forge",
+  "version": "1.0",
+  "author": "",
+  "files": [
+    {
+      "projectID": 248787,
+      "fileID": 3927564,
+      "required": true
+    },
+    {
+      "projectID": 250398,
+      "fileID": 3950209,
+      "required": true
+    },
+    {
+      "projectID": 318012,
+      "fileID": 3951367,
+      "required": true
+    },
+    {
+      "projectID": 240630,
+      "fileID": 3831559,
+      "required": true
+    },
+    {
+      "projectID": 324717,
+      "fileID": 4082408,
+      "required": true
+    },
+    {
+      "projectID": 383277,
+      "fileID": 3782160,
+      "required": true
+    },
+    {
+      "projectID": 238222,
+      "fileID": 3940240,
+      "required": true
+    },
+    {
+      "projectID": 659192,
+      "fileID": 3951271,
+      "required": true
+    },
+    {
+      "projectID": 32274,
+      "fileID": 4331319,
+      "required": true
+    },
+    {
+      "projectID": 401648,
+      "fileID": 4030561,
+      "required": true
+    },
+    {
+      "projectID": 238372,
+      "fileID": 3859673,
+      "required": true
+    },
+    {
+      "projectID": 348521,
+      "fileID": 3972426,
+      "required": true
+    },
+    {
+      "projectID": 60089,
+      "fileID": 3578801,
+      "required": true
+    },
+    {
+      "projectID": 252848,
+      "fileID": 3858196,
+      "required": true
+    }
+  ],
+  "overrides": "overrides"
+}
