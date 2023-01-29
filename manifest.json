@@ -1,0 +1,44 @@
+{
+  "minecraft": {
+    "version": "1.18.2",
+    "modLoaders": [
+      {
+        "id": "fabric-0.14.13",
+        "primary": true
+      }
+    ]
+  },
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "name": "MCMOD-TestPack-1.18.2-Fabric",
+  "version": "1.0",
+  "author": "",
+  "files": [
+    {
+      "projectID": 324717,
+      "fileID": 4160646,
+      "required": true
+    },
+    {
+      "projectID": 238222,
+      "fileID": 4352924,
+      "required": true
+    },
+    {
+      "projectID": 248787,
+      "fileID": 3927566,
+      "required": true
+    },
+    {
+      "projectID": 306612,
+      "fileID": 4100443,
+      "required": true
+    },
+    {
+      "projectID": 483805,
+      "fileID": 3925502,
+      "required": true
+    }
+  ],
+  "overrides": "overrides"
+}
